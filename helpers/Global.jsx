@@ -1,5 +1,5 @@
 const Global = {
-  url: "http://localhost:3900/api/"
+  url: "https://backend-redsocial-production.up.railway.app/api/"
 }
 
 export default Global
